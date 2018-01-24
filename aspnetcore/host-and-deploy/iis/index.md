@@ -288,7 +288,7 @@ IIS configuration is influenced by the **\<system.webServer>** section of *web.c
 
 ## Configuration sections of web.config
 
-Configruation sections of ASP.NET Framework apps in *web.config* aren't used by ASP.NET Core apps for configuration:
+Configuration sections of ASP.NET Framework apps in *web.config* aren't used by ASP.NET Core apps for configuration:
 
 * **\<system.web>**
 * **\<appSettings>**
